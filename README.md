@@ -94,4 +94,7 @@ Binance Smart Chain Testnet: 0x4d995D5B936889B9A26A12B7b48a22A80F226fde https://
 
 Telos EVM Testnet: 0xdcF72c0De33a53BACfa7562ab86375e4Fe90bC65 https://testnet.telos.net/v2/explore/evm/address/0xdcf72c0de33a53bacfa7562ab86375e4fe90bc65
 
-RSK EVM Testnet: 0x18c42168D834c99E2e7a368a5Fbf39F5BB32e09D https://explorer.testnet.rsk.co/tx/0x1fa00aeb16c05abe451a37fc42ad6b0736dd136fbb31cfe2c5ac077aafe06fae
+RSK Testnet: 0x18c42168D834c99E2e7a368a5Fbf39F5BB32e09D https://explorer.testnet.rsk.co/tx/0x1fa00aeb16c05abe451a37fc42ad6b0736dd136fbb31cfe2c5ac077aafe06fae
+
+Polygon Mumbai Testnet: 0x46c60C1b5f756c8B6AA10A7d838380AD1B5F28BE https://mumbai.polygonscan.com/address/0x46c60C1b5f756c8B6AA10A7d838380AD1B5F28BE
+

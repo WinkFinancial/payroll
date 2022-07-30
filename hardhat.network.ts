@@ -69,7 +69,7 @@ if (mnemonic) {
   networks.polygonMumbai = {
     live: true,
     chainId: 80001,
-    url: 'https://rpc-mumbai.maticvigil.com/',
+    url: 'https://rpc-mumbai.maticvigil.com/', // Mumbai public RPC throws errors some times, use Alchemy instead
     accounts: {
       mnemonic,
     },

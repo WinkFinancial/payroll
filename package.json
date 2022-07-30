@@ -14,6 +14,7 @@
     "coverage": "hardhat coverage",
     "flatten": "hardhat flatten",
     "deploy": "hardhat deploy --network",
+    "deploy-upgrade": "hardhat deploy --tags upgrade --network ",
     "docgen": "hardhat docgen",
     "reinstall": "rm -rf node_modules/ && rm -f yarn.lock && yarn",
     "clean": "hardhat clean",
